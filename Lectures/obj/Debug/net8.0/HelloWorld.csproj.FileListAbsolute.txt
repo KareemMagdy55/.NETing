@@ -1,0 +1,14 @@
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

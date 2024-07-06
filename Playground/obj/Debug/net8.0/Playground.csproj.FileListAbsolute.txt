@@ -1,0 +1,14 @@
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\bin\Debug\net8.0\Playground.exe
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\bin\Debug\net8.0\Playground.deps.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\bin\Debug\net8.0\Playground.runtimeconfig.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\bin\Debug\net8.0\Playground.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\bin\Debug\net8.0\Playground.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.AssemblyInfoInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.AssemblyInfo.cs
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.csproj.CoreCompileInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\refint\Playground.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.genruntimeconfig.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\ref\Playground.dll
