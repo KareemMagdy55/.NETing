@@ -62,6 +62,7 @@ namespace Lab1{
                 while (num != 0)
                 {
                     int firstDigit = num % 10;
+                    
                     if (firstDigit == 1)
                         total2++;
                     
