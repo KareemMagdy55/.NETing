@@ -21,13 +21,17 @@ public class Lec3 {
             y = long.MaxValue;
 
             // unchecked {
-                x = (int)y;
+            x = (int)y;
             // }
         }
 
         #endregion
 
         #region Boxing and unboxing
+
+        // Appears in relation between
+        // System.object & Any valueType
+
         // Rule : Base ref = child , statement is safe and valid    
         Object o1 = new Object();
         int valueType = 0;
@@ -42,6 +46,27 @@ public class Lec3 {
         // Unboxing
         // Unsafe, explicit 
         // Heap to stack
+
+        #endregion
+
+        #region Nullable types
+
+        Nullable<int> nx = null;
+        int? ny = 5;
+        int x1 = 5;
+
+
+        // Not safe :
+        // Console.WriteLine(ny);
+
+        // Protective programming approach
+
+        // HasValue the same as ny != null
+        if (ny.HasValue)
+            Console.WriteLine(ny);
+
+        x1 = ny.HasValue ? ny.Value : 0;
+        x1 = ny ?? 0;
 
         #endregion
     }
