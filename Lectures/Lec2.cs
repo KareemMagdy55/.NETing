@@ -1,8 +1,8 @@
-﻿namespace HelloWorld
+﻿namespace Lectures
 {
     public class Lec2
     {
-        public static void Main()
+        public static void MainLec2()
         {
             Console.WriteLine("\nHello world, Kareem is here !");
 

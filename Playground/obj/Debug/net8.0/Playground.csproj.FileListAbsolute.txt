@@ -12,3 +12,4 @@ K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\refin
 K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.pdb
 K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.genruntimeconfig.cache
 K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\ref\Playground.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\Playground\obj\Debug\net8.0\Playground.sourcelink.json

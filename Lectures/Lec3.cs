@@ -1,4 +1,4 @@
-﻿namespace HelloWorld;
+﻿namespace Lectures;
 
 public class Lec3 {
     public void lec3() {
@@ -67,6 +67,40 @@ public class Lec3 {
 
         x1 = ny.HasValue ? ny.Value : 0;
         x1 = ny ?? 0;
+
+        #endregion
+
+        #region Null operators
+
+        double d = default;
+        
+        // What about this case ?
+        int[] arr = default;
+        for (int i = 0; i < arr.Length; i++) {
+            Console.WriteLine(arr[i]);
+        }
+        // Default is NULL, an exception will be thrown.
+        
+        // Null propagation operator 
+        for (int i = 0; i < arr?.Length; i++)
+            Console.WriteLine(arr[i]);
+
+
+        int r1 = arr.Length; // unsafe 
+        int? r2 = arr?.Length; // safe 
+        int r3 = arr?.Length ?? 0; // safe 
+
+        #endregion
+
+        #region Implicit Typed local variables
+        // like auto in c++
+        // Compiler will detect var datatype based on initial value. 
+        // Var is not defined in IL 
+        var x3 = 3;
+        
+        // In Runtime => int x3 = 3 ;
+
+
 
         #endregion
     }
