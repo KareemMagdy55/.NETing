@@ -86,7 +86,7 @@ namespace Lab1{
             
             
         }
-        public static void Main()
+        public static void Main1()
         {
             Lab1 l = new Lab1();
             // l.findTheLongestDist();

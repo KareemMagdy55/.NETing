@@ -30,7 +30,7 @@ public class Lec4 {
         m = x * y; 
     }
 
-    public static void Main() {
+    public static void MainLec4() {
         // Pass by value : read only
         // Pass by reference : read & write 
         // Pass by out : write first 
