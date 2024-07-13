@@ -47,7 +47,12 @@ public class Lec5_Enum {
         FAR = (FileAccessRight)15;
         Console.WriteLine(FAR);
         // > Read, Write, Execute, Delete
+        
+        // Check the bit of 'Read' access
+        if((FAR & FileAccessRight.Read) == FileAccessRight.Read)
+            Console.WriteLine("ACCESS RIGHTS HAS READ");
 
+         
 
     }
 }
