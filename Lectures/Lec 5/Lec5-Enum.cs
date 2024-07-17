@@ -24,7 +24,7 @@ enum FileAccessRight:byte {
 }
 public class Lec5_Enum {
     
-    public static void Main() {
+    public static void MainLec5() {
         #region Enum example 01
 
         Grades grade = Grades.A;

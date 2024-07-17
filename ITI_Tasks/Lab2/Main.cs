@@ -18,10 +18,10 @@ public class MainClass {
             SecurityLevel.DBA | SecurityLevel.SECERTARY | SecurityLevel.DEVELOPER | SecurityLevel.GUEST, 
             new HiringDate(9, 7, 2003), 23000);
         
-        Array.Sort(employees, (emp1, emp2) => emp1.HiringDate.CompareTo(emp2.HiringDate));
-
+        Array.Sort(employees);
         foreach (var emp in employees) {
             Console.WriteLine(emp.ToString());
+            Console.WriteLine("===================================================");
         }
     }
 }

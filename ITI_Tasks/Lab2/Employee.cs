@@ -1,7 +1,7 @@
 ﻿namespace ITI_Tasks.Lab2;
 
 
-public class Employee {
+public class Employee : IComparable{
     private int id;
     private SecurityLevel securityLevel;
     private HiringDate hiringDate;
@@ -17,6 +17,11 @@ public class Employee {
 
     public override string ToString() {
         return $"ID: {id} \nSecurity level: {securityLevel} \nHiring date: {hiringDate}\nSalary: {salary:C}\n";
+    }
+
+    public int CompareTo(object? obj) {
+        var other = (Employee)obj;
+        return hiringDate.CompareTo(other.hiringDate);
     }
 
     public int Id {

@@ -1,6 +1,6 @@
 ﻿namespace ITI_Tasks.Lab2;
 
-public class HiringDate {
+public class HiringDate : IComparable {
     private int month;
     private int year;
     private int day;
@@ -11,7 +11,18 @@ public class HiringDate {
         this.day = day;
     }
 
-    public int CompareTo(HiringDate other) {
+
+    public bool Equals(HiringDate h) {
+        return h.day == day && h.month == month && h.year == year;
+    }
+
+
+    public override string ToString() {
+        return $"{day}/{month}/{year}";
+    }
+
+    public int CompareTo(object? obj) {
+        var other = (HiringDate)obj;
         if (year == other.year && month == other.month) {
             return this.day.CompareTo(other.day);
         }
@@ -21,15 +32,5 @@ public class HiringDate {
         }
 
         return year.CompareTo(other.year);
-    }
-
-
-    public bool Equals(HiringDate h) {
-        return h.day == day && h.month == month && h.year == year;
-    }
-
-
-    public override string ToString() {
-        return $"{day}/{month}/{year}";
     }
 }

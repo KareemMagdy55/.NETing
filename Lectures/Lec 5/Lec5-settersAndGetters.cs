@@ -25,5 +25,4 @@ public struct Student {
     
     
 }
-public str
 //21
