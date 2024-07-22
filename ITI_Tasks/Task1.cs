@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 
 namespace Lab1{
-    public class Lab1{
+    public class Task1{
             
         // Problem 1
         private void findTheLongestDist()
@@ -88,7 +88,7 @@ namespace Lab1{
         }
         public static void Main1()
         {
-            Lab1 l = new Lab1();
+            Task1 l = new Task1();
             // l.findTheLongestDist();
 
             // l.reverseAWord();

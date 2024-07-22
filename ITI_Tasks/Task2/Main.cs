@@ -12,9 +12,9 @@ public class MainClass {
         /// <param name="hiringDate">The date when the employee was hired.</param>
         /// <param name="salary">The salary of the employee.</param>
 
-        employees[0] = new Employee(1, SecurityLevel.DBA, new HiringDate(9, 5, 2003), 23000);
-        employees[1] = new Employee(2, SecurityLevel.GUEST, new HiringDate(9, 6, 1995), 23000);
-        employees[2] = new Employee(3, 
+        employees[0] = new Employee("Kareem", 1, SecurityLevel.DBA, new HiringDate(9, 5, 2003), 23000);
+        employees[1] = new Employee("Mohammed", 2, SecurityLevel.GUEST, new HiringDate(9, 6, 1995), 23000);
+        employees[2] = new Employee("Ryan",3, 
             SecurityLevel.DBA | SecurityLevel.SECERTARY | SecurityLevel.DEVELOPER | SecurityLevel.GUEST, 
             new HiringDate(9, 7, 2003), 23000);
         

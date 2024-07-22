@@ -8,7 +8,7 @@ class NegatvieNumberException : Exception {
 
 
 public class Exceptions {
-    public static void Main() {
+    public static void MainExceptions() {
         // General catch block (if unhandled exception fired)
         try {
             ExceptionExample();
@@ -16,6 +16,8 @@ public class Exceptions {
         catch (Exception e) {
             Console.WriteLine(e.Message);
         }
+
+       
     }
 
     public static void ExceptionExample() {
