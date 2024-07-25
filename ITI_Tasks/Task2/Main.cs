@@ -1,7 +1,7 @@
 ﻿namespace ITI_Tasks.Lab2;
 
 public class MainClass {
-    public static void Main() {
+    public static void MainEmp() {
         Employee[] employees = new Employee[3];
         
         // ReSharper disable once InvalidXmlDocComment
