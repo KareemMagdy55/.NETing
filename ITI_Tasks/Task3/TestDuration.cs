@@ -14,8 +14,9 @@ public class TestDuration {
         if(D1 > D2);
         if(D1 <= D2);
         if(D1);
-        DateTime Obj = (DateTime)D1;
-
+        
+        
+        // Compiles correct ...
         Console.WriteLine(D1.ToString());
         Console.WriteLine(D2.ToString());
         Console.WriteLine(D3.ToString());

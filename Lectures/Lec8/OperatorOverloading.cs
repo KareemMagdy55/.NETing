@@ -35,7 +35,7 @@ class Complex {
 }
 
 class Program {
-    public static void Main() {
+    public static void MainOp() {
         Complex c1 = new Complex() {
             Real = 2,
             Imag = 2
