@@ -1,7 +1,7 @@
 ﻿namespace HelloWorld.lec9;
 
 public class TryInhertance {
-    public static void Main() {
+    public static void MainTryInhertance() {
       
         TypeA BaseRef = new TypeA(1);
         BaseRef.StaticallyBindedShow(); //Base

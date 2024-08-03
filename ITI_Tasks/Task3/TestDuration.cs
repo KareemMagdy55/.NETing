@@ -1,7 +1,7 @@
 ﻿namespace Lab1.Task3;
 
 public class TestDuration {
-    public static void Main() {
+    public static void MainTestDuration() {
         Duration D1 = new Duration(3, 4, 2);
         Duration D2 = new Duration(4, 2, 5);
         Duration D3 = new Duration(12, 3, 4);
