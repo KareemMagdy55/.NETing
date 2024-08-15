@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1497452C-C620-4A86-B06C-40C438A31A7B}|Lectures\\Lectures.csproj|k:\\kareem\u0027s\\programming vol.3\\.net\\c#\\cs_trial\\lectures\\lec 10\\genericscollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1497452C-C620-4A86-B06C-40C438A31A7B}|Lectures\\Lectures.csproj|solutionrelative:lectures\\lec 10\\genericscollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericsCollections.cs",
+              "DocumentMoniker": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lec 10\\GenericsCollections.cs",
+              "RelativeDocumentMoniker": "Lectures\\Lec 10\\GenericsCollections.cs",
+              "ToolTip": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lec 10\\GenericsCollections.cs",
+              "RelativeToolTip": "Lectures\\Lec 10\\GenericsCollections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:57:55.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

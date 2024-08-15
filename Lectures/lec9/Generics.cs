@@ -66,7 +66,7 @@ public class Helper3<T>
 }
 
 public class TryGenerics {
-    public static void Main() {
+    public static void MainTryGenerics() {
         // var x = 3;
         // var y = 6;
 

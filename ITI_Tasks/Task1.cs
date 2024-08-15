@@ -55,7 +55,7 @@ namespace Lab1{
             }
 
             int total2 = 0;
-            // method 2 
+            
             for (int i = 1; i < 1e8; i++)
             {
                 int num = i; 
