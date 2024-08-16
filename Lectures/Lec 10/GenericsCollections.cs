@@ -3,7 +3,7 @@
 namespace HelloWorld.Lec_10;
 
 internal class GenericsCollections {
-    static void Main(string[] args) {
+    static void MainGenericCollecions(string[] args) {
 
         #region Non Generic Collections (ArrayList)
         // Before generics
@@ -29,7 +29,6 @@ internal class GenericsCollections {
         Console.WriteLine(sum); // Fires exception
 
         #endregion
-
 
         #region Generic Collection (List)
 
