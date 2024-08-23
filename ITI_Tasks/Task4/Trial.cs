@@ -1,7 +1,7 @@
 ﻿namespace Lab1.Task4;
 
 public class Trial {
-    public static void Main() {
+    public static void MainTask4() {
         QuestionList questions = new QuestionList( @"trial.txt");
         
         Question q1 = new Question("Q1", "A1");

@@ -17,7 +17,7 @@ internal class BubbleSort {
 }
 
 public class PointerToFunctionTrial {
-    static void Main(string[] args) {
+    static void MainLec10(string[] args) {
         #region Delegate Example 1
 
         ComparisionFunctionDelDT fptr;
