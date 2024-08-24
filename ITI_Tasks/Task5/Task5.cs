@@ -47,7 +47,7 @@ public class LibraryEngine {
 }
 
 public class trial {
-    public static void Main() {
+    public static void MainTask5() {
         Book book = new Book("N/A", "N/A", new []{"N/A","N/A","N/A"}, new DateTime(2024, 1, 1), 1.111M);
         var getISBNAnyFunc = () => book.ISBN;
         var getPDAnyFunc = () => book.PublicationDate;
