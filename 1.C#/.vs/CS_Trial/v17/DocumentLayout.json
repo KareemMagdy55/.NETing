@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B16EBA-6BE7-47D9-91BE-030E35CA01EF}|Playground\\Playground.csproj|k:\\kareem\u0027s\\programming vol.3\\.net\\c#\\cs_trial\\playground\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B16EBA-6BE7-47D9-91BE-030E35CA01EF}|Playground\\Playground.csproj|solutionrelative:playground\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B16EBA-6BE7-47D9-91BE-030E35CA01EF}|Playground\\Playground.csproj|k:\\kareem\u0027s\\programming vol.3\\.net\\c#\\cs_trial\\playground\\playground.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1B16EBA-6BE7-47D9-91BE-030E35CA01EF}|Playground\\Playground.csproj|solutionrelative:playground\\playground.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1497452C-C620-4A86-B06C-40C438A31A7B}|Lectures\\Lectures.csproj|k:\\kareem\u0027s\\programming vol.3\\.net\\c#\\cs_trial\\lectures\\lec 10\\genericscollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1497452C-C620-4A86-B06C-40C438A31A7B}|Lectures\\Lectures.csproj|solutionrelative:lectures\\lec 10\\genericscollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playground.cs",
+              "DocumentMoniker": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Playground\\Playground.cs",
+              "RelativeDocumentMoniker": "Playground\\Playground.cs",
+              "ToolTip": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Playground\\Playground.cs",
+              "RelativeToolTip": "Playground\\Playground.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:01:35.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playground",
+              "DocumentMoniker": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Playground\\Playground.csproj",
+              "RelativeDocumentMoniker": "Playground\\Playground.csproj",
+              "ToolTip": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Playground\\Playground.csproj",
+              "RelativeToolTip": "Playground\\Playground.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T16:01:34.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericsCollections.cs",
+              "DocumentMoniker": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lec 10\\GenericsCollections.cs",
+              "RelativeDocumentMoniker": "Lectures\\Lec 10\\GenericsCollections.cs",
+              "ToolTip": "K:\\Kareem\u0027s\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lec 10\\GenericsCollections.cs",
+              "RelativeToolTip": "Lectures\\Lec 10\\GenericsCollections.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:57:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
