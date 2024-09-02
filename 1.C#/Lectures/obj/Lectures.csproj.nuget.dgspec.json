@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lectures.csproj": {}
+    "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Lectures\\Lectures.csproj": {}
   },
   "projects": {
-    "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lectures.csproj": {
+    "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Lectures\\Lectures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lectures.csproj",
+        "projectUniqueName": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Lectures\\Lectures.csproj",
         "projectName": "Lectures",
-        "projectPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\Lectures.csproj",
+        "projectPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Lectures\\Lectures.csproj",
         "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
-        "outputPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\Lectures\\obj\\",
+        "outputPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Lectures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -35,11 +35,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {

@@ -1,0 +1,15 @@
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\bin\Debug\net8.0\Lectures.exe
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\bin\Debug\net8.0\Lectures.deps.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\bin\Debug\net8.0\Lectures.runtimeconfig.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\bin\Debug\net8.0\Lectures.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\bin\Debug\net8.0\Lectures.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.GeneratedMSBuildEditorConfig.editorconfig
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.AssemblyInfoInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.AssemblyInfo.cs
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.csproj.CoreCompileInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.sourcelink.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\refint\Lectures.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\Lectures.genruntimeconfig.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\2.LINQ\LINQ\Lectures\obj\Debug\net8.0\ref\Lectures.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\ITI_Tasks\\ITI_Tasks.csproj",
+      "projectUniqueName": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\ITI_Tasks\\ITI_Tasks.csproj",
       "projectName": "ITI_Tasks",
-      "projectPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\ITI_Tasks\\ITI_Tasks.csproj",
+      "projectPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\ITI_Tasks\\ITI_Tasks.csproj",
       "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
-      "outputPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\ITI_Tasks\\obj\\",
+      "outputPath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\ITI_Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,11 +41,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

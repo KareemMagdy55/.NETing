@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/WkMFqApItY=",
+  "dgSpecHash": "MkUou8Fp+9Bc6BfUjmxnpQ77HnI6+nHTaywEOp9Vbh4FM1pqY5aWxETlqYiUwdhJoLV+nxv/XrBcU+61BSO5tQ==",
   "success": true,
-  "projectFilePath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\Playground\\Playground.csproj",
+  "projectFilePath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Playground\\Playground.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karee\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
