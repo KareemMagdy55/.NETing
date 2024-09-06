@@ -18,9 +18,9 @@ public class AnonymousType {
         // GetHashCode() based on values not identities 
     }
     
-    // NOTE THAT: C# is strongly typed (statically typed) it means that you must decide what is
+    // NOTE THAT: - C# is strongly typed (statically typed) it means that you must decide what is
     // some variable's datatype in an initialization statement 
     
-    // Anonymous type cannot use be as input parameter or return types.
+    // - Anonymous type cannot use be as input parameter or return types.
 
 }

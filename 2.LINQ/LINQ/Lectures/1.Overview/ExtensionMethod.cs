@@ -2,7 +2,7 @@
 
 // But, how they put a new functions in the "list" class ?  
 static class ExtensionMethod {
-   public static int FirstElement(this List<int> lst) {
+   internal static int FirstElement(this List<int> lst) {
       return lst[0];
    }
 

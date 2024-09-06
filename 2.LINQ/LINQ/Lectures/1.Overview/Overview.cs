@@ -3,8 +3,8 @@
 namespace LINQ._1.Overview;
 
 public class Overview {
-    public static void Main() {
-        // LINQ : Language Independent Query
+    public static void MainOverview() {
+        // LINQ: Language Independent Query
         // LINQ promise with 40 "query operators" that manipulate data regardless of data store
 
         // LINQ's four types
@@ -13,7 +13,7 @@ public class Overview {
 
 
         // <<<< WHY LINQ ? >>>>
-        // How can you map database to your code ? 
+        // How can you map a database to your code? 
         // Map it yourself ... varchar <==> string, relations, layers ...
         // Or Use ORM(Object-relational mapping) Tools (e.g. 40 LINQ TOOLS) .
 
