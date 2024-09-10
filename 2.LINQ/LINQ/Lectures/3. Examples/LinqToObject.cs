@@ -3,16 +3,9 @@
 using static ListGenerators;
 
 
-// NOTE THAT: LINQ operators is a topic that I believe you cannot learn it right without a researching and coding
+// NOTE THAT: LINQ operators is a topic that I believe you cannot learn it right without researching and coding,
 //            So this file may not help you in every LINQ operator, YOU MUST TRY.
 public static class LinqToObject {
-    public static void PrintList(this IEnumerable<dynamic> lst) {
-        Console.WriteLine("[");
-        foreach (var element in lst)
-            Console.WriteLine(element + ", ");
-
-        Console.WriteLine("]");
-    }
 
 // Some of 40+ LINQ operators
     public static void Main() {

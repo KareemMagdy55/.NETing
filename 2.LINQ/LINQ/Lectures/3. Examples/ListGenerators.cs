@@ -71,6 +71,28 @@ public class Product:IComparable<Product>
 
 public static class ListGenerators
 {
+  public static List<string> LoadWordsFromFile( string filePath)
+  {
+    List<string> englishWords = new List<string>();
+
+    using (StreamReader reader = new StreamReader(filePath))
+    {
+      string? englishWord;
+      while ((englishWord = reader.ReadLine()) != null)
+      {
+        englishWords.Add(englishWord);
+      }
+    }
+
+    return englishWords;
+  }
+  public static void PrintList(this IEnumerable<object> lst) {
+    Console.WriteLine("[");
+    foreach (var element in lst)
+      Console.WriteLine(element + ", ");
+
+    Console.WriteLine("]");
+  }
   public static List<Customer> CustomerList;
   public static List<Product> ProductList;
   static  ListGenerators()
