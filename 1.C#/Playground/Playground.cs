@@ -29,6 +29,10 @@ class Playground
 
 
         Console.WriteLine("Hello, world");
-       
+        int n = 3;
+        int k = 4;
+
+        var res = Convert.ToString(n ^k, 2).Aggregate(0, (s, ch) => s + (ch == '1' ? 1 : 0));
+
     }
 }

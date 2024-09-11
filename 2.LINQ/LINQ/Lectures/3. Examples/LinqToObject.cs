@@ -5,6 +5,8 @@ using static ListGenerators;
 
 // NOTE THAT: LINQ operators is a topic that I believe you cannot learn it right without researching and coding,
 //            So this file may not help you in every LINQ operator, YOU MUST TRY.
+
+// TAKE A LOOK AT "Tasks" PROJECT
 public static class LinqToObject {
 
 // Some of 40+ LINQ operators

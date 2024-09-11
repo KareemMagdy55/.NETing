@@ -6,7 +6,7 @@ using static ListGenerators;
 
 public class AggregateOperators {
     
-    public static void Main() {
+    public static void MainAggregateOperators() {
         int[] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
 
         var oddNumbersCnt = Arr.Count(number => number % 2 == 1);
