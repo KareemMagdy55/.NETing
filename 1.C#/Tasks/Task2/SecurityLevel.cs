@@ -1,4 +1,4 @@
-﻿namespace ITI_Tasks.Lab2;
+﻿namespace Tasks.Lab2;
 
 [Flags]public enum SecurityLevel {
     NONE = -1,

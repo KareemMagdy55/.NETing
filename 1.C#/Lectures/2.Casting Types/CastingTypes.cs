@@ -1,6 +1,6 @@
 ﻿namespace Lectures;
 
-public class Lec3 {
+public class CastingTypes {
     public void lec3() {
         #region Casting Built in value types
 

@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lectures", "Lectures\Lectures.csproj", "{1497452C-C620-4A86-B06C-40C438A31A7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI_Tasks", "ITI_Tasks\ITI_Tasks.csproj", "{AD454ED6-A079-4104-B087-E3A07485C4AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "Tasks\Tasks.csproj", "{AD454ED6-A079-4104-B087-E3A07485C4AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{C1B16EBA-6BE7-47D9-91BE-030E35CA01EF}"
 EndProject

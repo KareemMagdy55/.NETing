@@ -1,4 +1,4 @@
-﻿namespace ITI_Tasks.Lab2;
+﻿namespace Tasks.Lab2;
 
 public class MainClass {
     public static void MainEmp() {

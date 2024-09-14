@@ -1,4 +1,4 @@
-﻿using ITI_Tasks.Lab2;
+﻿using Tasks.Lab2;
 
 namespace Lab1;
 

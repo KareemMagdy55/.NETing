@@ -1,6 +1,6 @@
 ﻿namespace Lectures
 {
-    public class Lec2
+    public class DatatypesAndStringFormatting
     {
         public static void MainLec2()
         {
