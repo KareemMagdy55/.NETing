@@ -4,8 +4,8 @@ using System.Data.SqlClient;
 
 namespace EntityFramework._1.Overview;
 
-public class SQLCommands {
-    public static void Main() {
+public class Example1 {
+    public static void MainSQLCommands() {
         SqlConnection sqlConnection = new SqlConnection(ConfigurationManager.ConnectionStrings["NorthWindCN"].ConnectionString);
         SqlCommand sqlCommand = new SqlCommand(); 
         
