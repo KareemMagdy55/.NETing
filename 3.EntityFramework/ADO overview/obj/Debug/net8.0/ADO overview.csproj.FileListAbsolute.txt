@@ -1,0 +1,30 @@
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\ADO overview.exe
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\ADO overview.dll.config
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\ADO overview.deps.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\ADO overview.runtimeconfig.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\ADO overview.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\ADO overview.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\Config.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\System.Data.SqlClient.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.csproj.AssemblyReference.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.GeneratedMSBuildEditorConfig.editorconfig
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.AssemblyInfoInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.AssemblyInfo.cs
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.csproj.CoreCompileInputs.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.sourcelink.json
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO over.C4F3524A.Up2Date
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\refint\ADO overview.dll
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.pdb
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ADO overview.genruntimeconfig.cache
+K:\Kareem's\Programming vol.3\.NET\C#\CS_Trial\3.EntityFramework\ADO overview\obj\Debug\net8.0\ref\ADO overview.dll
