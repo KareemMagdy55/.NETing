@@ -35,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -44,6 +49,12 @@
             "Config": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",

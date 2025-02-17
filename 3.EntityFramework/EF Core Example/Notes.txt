@@ -1,0 +1,12 @@
+﻿1. How EF handles inheritance => by TPH (table per hierarchy), TPT (table per type) or TPC (table per concrete class)
+----- TPH -> table for all types (child and parent)
+----- TPT -> table for each type
+----- TPC -> table for 'cat', nothing for 'animal', 'cat' => concrete | 'animal' => abstract
+
+2. EF Core Support 4 Ways to Map Classes to DB
+   - Conversion (Default Action)
+   - Data Annotation
+   - Fluent API (inside DBContext class, OnModelCreating -> modelBuilder)
+   - ConfigurationClasses per Entity
+
+ 

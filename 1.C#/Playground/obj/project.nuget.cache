@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MkUou8Fp+9Bc6BfUjmxnpQ77HnI6+nHTaywEOp9Vbh4FM1pqY5aWxETlqYiUwdhJoLV+nxv/XrBcU+61BSO5tQ==",
+  "dgSpecHash": "AgDykOyGGIYLlAdQKHxBAfNaID3vuq/147bibfNW9OkD3gQ+J7ceztQy4X4wC5ozhhQ7eG0Vf1FWCQAlbobbHw==",
   "success": true,
   "projectFilePath": "K:\\Kareem's\\Programming vol.3\\.NET\\C#\\CS_Trial\\1.C#\\Playground\\Playground.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\karee\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\karee\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

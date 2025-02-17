@@ -16,7 +16,8 @@ public class Department {
         return $"ID {ID}, Name {Name}";
     }
 }
-// Table create by EF core 
+// Table created by EF core 
+
 // CREATE TABLE [Departments] (
 //     [ID] int NOT NULL IDENTITY,
 //     [Name] nvarchar(max) NOT NULL,

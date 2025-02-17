@@ -1,4 +1,6 @@
-﻿namespace EntityFramework.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace EntityFramework.Models;
 
 // POCO class 
 // Plain old CLR objects 
@@ -8,14 +10,23 @@
 public class Employee {
     public int ID { get; set; }
     public string Name { get; set; }
-
+    [EmailAddress]
+    public string EmailAddress { get; set; }
 
     // Entity framework will replace Dept with deptID
     // public int DeptID { get; set; }
     public virtual Department Dept { get; set; }
+
+    // Many to many relationship
+    public virtual ICollection<Course> Courses { get; set; }
+
+    public Employee() {
+        Courses = new HashSet<Course>();
+    }
 }
 
 // Table created by EF core
+
 // CREATE TABLE [Employees] (
 //     [ID] int NOT NULL IDENTITY,
 // [Name] nvarchar(max) NOT NULL,
