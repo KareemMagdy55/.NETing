@@ -9,7 +9,11 @@
 <div class="student-info">
     <h2>@Model.Name</h2>
     <h3><span class="id-label">ID:</span> @Model.Id</h3>
+    <h2>@ViewData["message"]</h2>
+    <h2>@ViewBag.Message</h2>
+    <h2>@TempData["message"]</h2>
 </div>
+
 
 <style>
     .student-info {
