@@ -21,9 +21,13 @@ public class StudentController : Controller {
         ViewBag.Message = "Try ViewBag";
         ViewData["message"] = "Try ViewData";
 
-        // Will return "Try TempData" .
+        // Will return "Try TempData".
         // TempData persists across requests, and it's only cleared when you read it.
         TempData["message"] = "Try TempData";
+        
+        
+        // TempData, ViewData and ViewBag is Better for small pieces of code (Deletion message, success message, ....)
+        // for big missions you need a ViewModel!
 
         return View("index", _studentRepository.GetById(id));
     }
