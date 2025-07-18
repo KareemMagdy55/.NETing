@@ -36,17 +36,17 @@ public class CastingTypes {
         Object o1 = new Object();
         int valueType = 0;
 
-        o1 = x;
         // Base ref = child .
         // This called Boxing 
         // Stack to heap
+        o1 = x;
 
 
-        x = (int)o1;
         // Unboxing
         // Unsafe, explicit 
         // Heap to stack
-
+        x = (int)o1;
+       
         #endregion
 
         #region Nullable types
