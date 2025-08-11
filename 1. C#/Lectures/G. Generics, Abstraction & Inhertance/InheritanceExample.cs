@@ -1,6 +1,4 @@
-﻿namespace HelloWorld.lec9;
-
-public class TryInhertance {
+public class InheritanceExample {
     public static void MainTryInhertance() {
       
         TypeA BaseRef = new TypeA(1);
