@@ -37,7 +37,7 @@ class Square : Rectangle {
 
 
 // Interfaces can be used in classes and structs 
-// Multiple interfaces vs one abstract class
+
 
 
 
