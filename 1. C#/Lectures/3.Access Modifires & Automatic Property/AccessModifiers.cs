@@ -2,7 +2,7 @@
 
 public class SomeRandomVars {
     public int x; // Can be accessed from all other classes
-    private int y; // Cannot be accessed
+    private int y; // Only accessed by Parent Class 
     internal int z; // Only accessed by classes within the same project/assembly file
     protected int w; // Only accessed by children
 
