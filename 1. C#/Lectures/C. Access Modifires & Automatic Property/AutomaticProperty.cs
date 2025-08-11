@@ -3,10 +3,7 @@
 public class Product {
     public int ID { get; set; } // Automatic property
     // Compiler will generate a private attribute
-    // and encapsulate it with public property
+    // and encapsulate it with public property (getter and setter)
     
-    
-    // Drawback :
-    // Accessing hidden attribute (inside class)
-    // done by public property only.
+  
 }
