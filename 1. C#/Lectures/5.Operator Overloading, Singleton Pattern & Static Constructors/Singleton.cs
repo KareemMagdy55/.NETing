@@ -1,7 +1,7 @@
 ﻿namespace Lectures.Lec8;
 
-// Make a graphics card class that produce only the same instance
-// each time you make a new object of graphics card class
+// Make a graphics card class produce only the same instance
+// each time you make a new object of graphics card class (Singleton pattern)
 class GraphicsCard {
     public int Data { get; set; }
     static GraphicsCard graphicsCard;
