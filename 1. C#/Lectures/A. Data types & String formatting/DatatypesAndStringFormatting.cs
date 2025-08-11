@@ -1,10 +1,13 @@
-﻿namespace Lectures
+﻿using System.Text;
+
+namespace Lectures
 {
       // Concepts will be mentioned later ... 
      // CLR : Common Language Runtime (CLR) is a core part of the Microsoft .NET 
      //       that handles execution of .NET-supported programming languages such as C#. 
 
      // BCL :  Base Class Library (BCL) is a core set of pre-built classes and types provided by Microsoft in the .NET.
+     // See CTS - Common type system image 
     public class DatatypesAndStringFormatting
     {
         public static void MainLec2()
@@ -69,7 +72,22 @@
             msg = $"Equation : {userX, 5} + {userY, -5} = {userX + userY}";
             // Print userX aligned to right by 5 
             // Print userY aligned to left by 5
+            
 
+            #endregion
+
+
+            #region String Vs StringBuilder
+                // String is IMMUTABLE: any change creates a new object in memory
+                string s = "Hello";
+                s += " World"; // New string created, old one discarded
+                Console.WriteLine(s);
+
+                // StringBuilder is MUTABLE: can change the same object in place
+                var sb = new StringBuilder("Hello");
+                sb.Append(" World"); // Same object, modified directly
+                Console.WriteLine(sb.ToString());
+            
             #endregion
         }
     }
