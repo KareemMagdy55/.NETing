@@ -5,7 +5,7 @@ public abstract class HW {
     
 }
 
-// Sealed class cannot have children
+// Sealed class cannot have children 
 public sealed class Memory : HW{
     public override int isAvaliable { get; set; }
 }
@@ -23,3 +23,4 @@ public class Cores : CPU {
     // public sealed override int isAvaliable { get; set; } Not valid
     
 }
+// Static classes are implicitly sealed.
