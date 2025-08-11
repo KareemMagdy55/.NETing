@@ -5,8 +5,7 @@ public class CastingTypes {
         #region Casting Built in value types
 
         int x = 5;
-        long y = x; // implicit casting 
-        // safe casting 
+        long y = x; // implicit casting (safe)
 
         x = (int)y; // Explicit casting
         // Int32 = Int64
@@ -15,19 +14,18 @@ public class CastingTypes {
 
         // NOTE THAT : CLR does not throw overflowException in normal code block
 
-
-        checked {
+        checked { // is a block keyword that enables arithmetic overflow checking
             // CLR will throw overflowException
             y = long.MaxValue;
 
-            // unchecked {
-            x = (int)y;
-            // }
+            unchecked { // keyword which prevents overflow checking
+                x = (int)y;
+            }
         }
 
         #endregion
 
-        #region Boxing and unboxing
+        #region Boxing and unboxing (important)
 
         // Appears in relation between
         // System.object & Any valueType
@@ -99,9 +97,6 @@ public class CastingTypes {
         var x3 = 3;
         
         // In Runtime => int x3 = 3 ;
-
-
-
         #endregion
     }
 }
