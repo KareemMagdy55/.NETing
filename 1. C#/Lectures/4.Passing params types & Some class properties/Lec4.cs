@@ -63,7 +63,7 @@ public class Lec4 {
         sumMul(x, y, out s, out m);
         
         
-        // If you interested with knowing the mul. value only
+        // If you interested with knowing the 'm' value only
         sumMul(x, y, out _, out m);
 
         #endregion
