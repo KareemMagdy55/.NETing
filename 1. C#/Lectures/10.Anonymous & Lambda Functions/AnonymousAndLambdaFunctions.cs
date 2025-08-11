@@ -6,7 +6,7 @@ public class AnonymousAndLambdaFunctions {
        
         // C# 2.0 feature : Anonymous method
         Func<int, bool> isEvenAnoFunc = delegate(int x) { return x % 2 == 0; };
-        // Can be written as SomeFunction( delegate(int x) {return x % 2 == 0 ;} );
+        // Can be written as Func( delegate(int x) {return x % 2 == 0 ;} );
         
         // -----------------------------------------------------------//
         
@@ -17,7 +17,6 @@ public class AnonymousAndLambdaFunctions {
         
         // var isEvenLamFunc = x => x % 2 == 0;
         // var is not valid keyword here because compiler cannot guess input datatype.
-//37
     }
 
     // Lambda Expression
