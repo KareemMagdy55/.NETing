@@ -26,7 +26,7 @@ public class Singleton {
         GraphicsCard gc2 = GraphicsCard.GetCard();
 
 
-        // Hashcode must be the due the requirement above
+        // Hashcode must be the same due the requirement above
         Console.WriteLine(gc1.GetHashCode());
         Console.WriteLine(gc2.GetHashCode());
 
