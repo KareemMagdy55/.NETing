@@ -3,7 +3,7 @@
      // CLR : Common Language Runtime (CLR) is a core part of the Microsoft .NET 
      //       that handles execution of .NET-supported programming languages such as C#. 
 
-     // BCL :  Base Class Library (BCL) is a core set of pre-built classes and types provided by Microsoft in the .NET platform
+     // BCL :  Base Class Library (BCL) is a core set of pre-built classes and types provided by Microsoft in the .NET.
     public class DatatypesAndStringFormatting
     {
         public static void MainLec2()
