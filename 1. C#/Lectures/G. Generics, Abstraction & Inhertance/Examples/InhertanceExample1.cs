@@ -1,6 +1,6 @@
-﻿namespace HelloWorld.lec9;
+﻿namespace HelloWorld.G._Generics__Abstraction___Inhertance.Examples;
 
-class TypeA
+internal class TypeA
 {
     public int A { get; set; }
 

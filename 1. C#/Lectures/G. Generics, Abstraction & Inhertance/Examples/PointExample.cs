@@ -21,7 +21,7 @@ public class Point  {
         
         Point? p = obj as Point; // returns null if casting fails
         
-        if (ReferenceEquals(p, this)) return true; // More performance. 
+        if (ReferenceEquals(p, this)) return true; // higher performance. 
         
         return p.X == X && p.Y == Y && p.Z == Z;
 

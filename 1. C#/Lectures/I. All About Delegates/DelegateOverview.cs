@@ -1,6 +1,6 @@
-﻿namespace HelloWorld.Lec_10;
+﻿namespace HelloWorld.I._All_About_Delegates;
 
-public class ComparisonExample {
+public class DelegateOverview {
     public static bool GreaterThan(int x, int y) {
         return x > y;
     }

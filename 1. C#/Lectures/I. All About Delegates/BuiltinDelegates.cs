@@ -1,4 +1,4 @@
-﻿namespace HelloWorld.Lec_10;
+﻿namespace HelloWorld.I._All_About_Delegates;
 
 public class Helper() {
     public static bool trialFunc(int k) {
@@ -16,7 +16,7 @@ public class BuiltinDelegates {
         Predicate<int> predicate = new Predicate<int>(Helper.trialFunc);
 
         // Func can work with function up to 16 input parameter
-        Func<int, int, bool> func = Comparison.GreaterThan;
+        Func<int, int, bool> func = DelegateOverview.GreaterThan;
 
         // Action is same as "Func" but works with the void return function.
         Action<int> action = Helper.ActionTrial;

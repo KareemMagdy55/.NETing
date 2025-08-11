@@ -1,11 +1,17 @@
-﻿namespace HelloWorld.Lec_10;
+﻿namespace HelloWorld.I._All_About_Delegates;
 
-// Delegate datatype is pointing to any function that has the signature in the initialization , 
-// in the example below it can point to any function that have (int, int) as a parameters and bool as return type
-// regardless of function name or access modifier
+/*
+  Delegate datatype is pointing to any function that has the signature in the initialization ,
+  in the example below it can point to any function that have (int, int) as a parameters and bool as return type
+  regardless of function name or access modifier
+ */ 
+
 public delegate bool ComparisionFunctionDelDT(int l, int r);
-// public delegate T3 ComparisionFunctionDelDT<in T1, in T2, out T3>(int x, int y); //Generic delegate, "in/out" is a mode specification for T in delegate and interface
-                                                                    // , in = parameter type, out = return type .
+/*
+ public delegate T3 ComparisionFunctionDelDT<in T1, in T2, out T3>(int x, int y);
+ Generic delegate, "in/out" is a mode specification for T in delegates
+ in => parameter type, out = return type .
+*/
 
 internal class BubbleSort {
     public static void Sort(int[] arr, ComparisionFunctionDelDT CFD) {
@@ -21,7 +27,7 @@ public class PointerToFunctionTrial {
         #region Delegate Example 1
 
         ComparisionFunctionDelDT fptr;
-        fptr = new ComparisionFunctionDelDT(Comparison.GreaterThan);
+        fptr = new ComparisionFunctionDelDT(DelegateOverview.GreaterThan);
 
         // Calling the function.
         // bool result = fptr.Invoke(5, 6);
@@ -32,7 +38,7 @@ public class PointerToFunctionTrial {
         #endregion
 
         int[] arr = { 5, 7, -1, 2, 9, 7 };
-        BubbleSort.Sort(arr, Comparison.SmallerThan);
+        BubbleSort.Sort(arr, DelegateOverview.SmallerThan);
         foreach (var x in arr) {
             Console.Write(x + " ");
         }
