@@ -6,7 +6,7 @@ public class PhoneBook {
 
     
     // Indexer that takes [name] as input and outputs a 'number'
-    // Input parameter can be more than one 
+    // Input parameters can be one or more 
     public int this[string Name] {
         get {
             for(int i = 0 ; i < names?.Length; i ++)
