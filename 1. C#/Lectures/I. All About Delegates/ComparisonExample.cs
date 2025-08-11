@@ -1,6 +1,6 @@
 ﻿namespace HelloWorld.Lec_10;
 
-public class Comparison {
+public class ComparisonExample {
     public static bool GreaterThan(int x, int y) {
         return x > y;
     }
