@@ -1,5 +1,6 @@
 ﻿namespace Lectures
 {
+      // Concepts will be mentioned later ... 
      // CLR : Common Language Runtime (CLR) is a core part of the Microsoft .NET 
      //       that handles execution of .NET-supported programming languages such as C#. 
 
@@ -10,24 +11,26 @@
         {
             Console.WriteLine("\nHello world, Kareem is here !");
 
-            #region CommonTypeSystem // a region is used to enhance program orgnization
+             // a region is used to enhance program orgnization only.
+            #region CommonTypeSystem 
             
-            // Value type example (using stack)
+            // Value type example (preserved in the stack)
             int x = 5; // C# keyword (primitive)
-            Int32 y = 8; // Base class library type 
+            Int32 y = 8; // BCL type 
 
-            y = x; // value of y = value of x, with different IDS/Hashcodes
+            y = x; // value of y = value of x, copy of the value not the refernce (different hashcodes)
             Console.WriteLine(y.GetHashCode());
             Console.WriteLine(x.GetHashCode());
             
 
             // All are the same 
+            // All saved as a reference (a pointer) to the object on the heap.
             Object o1 = new object(); // C# keyword
             Object o2 = new Object(); // BCL type (O is capital)
             Object o3 = new(); // C# (9.0 +)
 
-            o2 = o1;
-            // Same Hashcodes 
+            o2 = o1; // o1 and o2 now point to the same location in the Heap (same hashCode)
+
             Console.WriteLine(o1.GetHashCode());
             Console.WriteLine(o2.GetHashCode());
 
