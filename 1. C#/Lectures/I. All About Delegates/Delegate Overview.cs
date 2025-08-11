@@ -27,7 +27,7 @@ public class PointerToFunctionTrial {
         #region Delegate Example 1
 
         ComparisionFunctionDelDT fptr;
-        fptr = new ComparisionFunctionDelDT(DelegateOverview.GreaterThan);
+        fptr = new ComparisionFunctionDelDT(Comparison.GreaterThan);
 
         // Calling the function.
         // bool result = fptr.Invoke(5, 6);
@@ -38,7 +38,7 @@ public class PointerToFunctionTrial {
         #endregion
 
         int[] arr = { 5, 7, -1, 2, 9, 7 };
-        BubbleSort.Sort(arr, DelegateOverview.SmallerThan);
+        BubbleSort.Sort(arr, Comparison.SmallerThan);
         foreach (var x in arr) {
             Console.Write(x + " ");
         }
@@ -46,6 +46,19 @@ public class PointerToFunctionTrial {
         Console.WriteLine();
     }
 }
+public class Comparison {
+    public static bool GreaterThan(int x, int y) {
+        return x > y;
+    }
+    public static bool SmallerThan(int x, int y) {
+        return x < y;
+    }
+    public static bool Equal(int x, int y) {
+        return !SmallerThan(x, y) && !GreaterThan(x, y);
+    }
+
+}
+
 
 // Delegate is more flexible than interface
 // It can point to static method

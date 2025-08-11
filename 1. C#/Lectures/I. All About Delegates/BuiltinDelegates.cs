@@ -16,7 +16,7 @@ public class BuiltinDelegates {
         Predicate<int> predicate = new Predicate<int>(Helper.trialFunc);
 
         // Func can work with function up to 16 input parameter
-        Func<int, int, bool> func = DelegateOverview.GreaterThan;
+        Func<int, int, bool> func = Comparison.GreaterThan;
 
         // Action is same as "Func" but works with the void return function.
         Action<int> action = Helper.ActionTrial;
