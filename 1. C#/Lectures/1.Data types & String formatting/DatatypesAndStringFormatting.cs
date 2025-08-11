@@ -1,29 +1,33 @@
 ﻿namespace Lectures
 {
+     // CLR : Common Language Runtime (CLR) is a core part of the Microsoft .NET 
+     //       that handles execution of .NET-supported programming languages such as C#. 
+
+     // BCL :  Base Class Library (BCL) is a core set of pre-built classes and types provided by Microsoft in the .NET platform
     public class DatatypesAndStringFormatting
     {
         public static void MainLec2()
         {
             Console.WriteLine("\nHello world, Kareem is here !");
 
-            #region CommonTypeSystem
+            #region CommonTypeSystem // a region is used to enhance program orgnization
             
             // Value type example (using stack)
             int x = 5; // C# keyword (primitive)
             Int32 y = 8; // Base class library type 
 
-            y = x; // value of y = value of x, with different IDS
+            y = x; // value of y = value of x, with different IDS/Hashcodes
             Console.WriteLine(y.GetHashCode());
             Console.WriteLine(x.GetHashCode());
             
 
             // All are the same 
             Object o1 = new object(); // C# keyword
-            Object o2 = new Object(); // BCL type
-            Object o3 = new(); // C# (9.0)
+            Object o2 = new Object(); // BCL type (O is capital)
+            Object o3 = new(); // C# (9.0 +)
 
             o2 = o1;
-            
+            // Same Hashcodes 
             Console.WriteLine(o1.GetHashCode());
             Console.WriteLine(o2.GetHashCode());
 
