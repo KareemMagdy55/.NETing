@@ -12,7 +12,7 @@ public class Calculator {
     // parameterless 
     // Max only one static ctor per class
     static Calculator() {
-        // x = 3; not valid 
+        // x = 3; not valid because it is not static 
         PI = 3.1432534543;
     }
     
